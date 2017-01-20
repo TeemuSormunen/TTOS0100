@@ -1,6 +1,6 @@
 # TTOS0100
 
-![](https://en.wikipedia.org/wiki/File:Samuel_L._Jackson_SDCC_2014_(cropped).jpg)
+![](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 ##Alaotsikko
 
