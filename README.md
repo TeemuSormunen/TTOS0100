@@ -4,4 +4,4 @@
 
 ## Sidosryhmäkartta
 
-![Sidosryhmäkartta](https://i.imgur.com/GZzncuH.png)
+![Sidosryhmäkartta](https://i.imgur.com/5rdXzS2.png)
