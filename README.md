@@ -2,4 +2,6 @@
 
 ![Repon wiki](https://github.com/TeemuSormunen/TTOS0100/wiki)
 
-:-D
+## Sidosryhmäkartta
+
+![Sidosryhmäkartta](https://i.imgur.com/GZzncuH.png)
